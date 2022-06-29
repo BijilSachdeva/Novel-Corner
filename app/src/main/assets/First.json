@@ -1,0 +1,55 @@
+{
+  "type": "foo",
+  "data": [
+    {
+      "id": 1,
+      "book_id": "101",
+      "novel": "novel 1 data"
+    },
+    {
+      "id": 2,
+      "book_id": "102",
+      "novel": "novel 2 data"
+    },
+    {
+      "id": 3,
+      "book_id": "103",
+      "novel": "novel 3 data"
+    },
+    {
+      "id": 4,
+      "book_id": "104",
+      "novel": "novel 4 data"
+    },
+    {
+      "id": 5,
+      "book_id": "105",
+      "novel": "novel 5 data"
+    },
+    {
+      "id": 6,
+      "book_id": "106",
+      "novel": "novel 6 data"
+    },
+    {
+      "id": 7,
+      "book_id": "107",
+      "novel": "novel 7 data"
+    },
+    {
+      "id": 8,
+      "book_id": "108",
+      "novel": "novel 8 data"
+    },
+    {
+      "id": 9,
+      "book_id": "109",
+      "novel": "novel 9 data"
+    },
+    {
+      "id": 10,
+      "book_id": "110",
+      "novel": "novel 10 data"
+    }
+  ]
+}
